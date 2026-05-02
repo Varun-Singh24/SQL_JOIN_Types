@@ -194,7 +194,5 @@ ORDER BY people.state_code;
 
 ## 🤝 Contributing
 
-You can extend this repo by adding:
-
 * SELF JOIN
 * JOIN with GROUP BY
